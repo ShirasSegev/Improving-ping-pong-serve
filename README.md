@@ -5,7 +5,7 @@ feedback on their serve angle, based on a physical model of projectile
 motion with air resistance and on real ball-trajectory extraction from
 video.
 
-Built as a mini-project for [course name], combining a physics simulation
+Built as a mini-project for Physics course, combining a physics simulation
 (Euler's method) with a computer-vision pipeline (OpenCV Hough circle
 transform) and an interactive NiceGUI interface.
 
